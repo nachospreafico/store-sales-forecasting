@@ -1,0 +1,12 @@
+# Core analysis and visualization
+numpy>=1.26,<3
+pandas>=2.2,<3
+matplotlib>=3.8,<4
+
+# Baseline and statistical forecasting
+scikit-learn>=1.4,<2
+statsmodels>=0.14,<1
+
+# Notebook environment
+jupyterlab>=4,<5
+ipykernel>=6,<8

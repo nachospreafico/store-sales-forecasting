@@ -1,0 +1,41 @@
+# Local Python environments
+.venv/
+venv/
+env/
+.env
+.env.*
+!.env.example
+
+# Python caches and build artifacts
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+*.egg-info/
+build/
+dist/
+
+# Jupyter and IPython
+.ipynb_checkpoints/
+.ipython/
+
+# Local datasets and generated forecasts
+/data/raw/*
+!/data/raw/.gitkeep
+/data/processed/*
+!/data/processed/.gitkeep
+/submissions/*
+!/submissions/.gitkeep
+
+# Model artifacts and experiment outputs
+*.pkl
+*.joblib
+catboost_info/
+mlruns/
+
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
