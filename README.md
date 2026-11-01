@@ -2,5 +2,14 @@
 
 An end-to-end time series forecasting project developed for Kaggle's **Store Sales — Time Series Forecasting** competition. The objective is to predict daily sales across multiple stores and product families using historical sales, promotions, calendar events, and external economic indicators. The project progressively evaluates naive forecasting methods, classical statistical models, and machine learning algorithms to assess the trade-off between model complexity and predictive performance.
 
-**Evaluation metric:** RMSLE (Root Mean Squared Logarithmic Error) 
+**Evaluation metric:** RMSLE (Root Mean Squared Logarithmic Error)
+
 **Best public leaderboard score:**
+
+## Author
+
+**Ignacio Spreafico**
+
+- LinkedIn: [linkedin.com/in/ignacio-spreafico](https://www.linkedin.com/in/ignacio-spreafico)
+- Portfolio: [ignaciospreafico.vercel.app](https://ignaciospreafico.vercel.app)
+- Email: [nachospreafico06@gmail.com](mailto:nachospreafico06@gmail.com)
